@@ -1,4 +1,5 @@
 // Source: http://theswiftlangblog.com/declaring-a-variable/
+// Oscar Swanros, 2014
 
 import Cocoa
 
